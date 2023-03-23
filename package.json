@@ -1,0 +1,23 @@
+{
+  "name": "ecmascriptcourse",
+  "version": "1.0.0",
+  "description": "Documentation of ecmascript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andreycalder0n/ECMAScriptCourse.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Andrey Calderon <andreycalderon237@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreycalder0n/ECMAScriptCourse/issues"
+  },
+  "homepage": "https://github.com/andreycalder0n/ECMAScriptCourse#readme"
+}
