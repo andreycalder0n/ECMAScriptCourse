@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/andreycalder0n/ECMAScriptCourse/issues"
   },
-  "homepage": "https://github.com/andreycalder0n/ECMAScriptCourse#readme"
+  "homepage": "https://github.com/andreycalder0n/ECMAScriptCourse#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
